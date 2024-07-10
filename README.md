@@ -1,4 +1,4 @@
-# Hi, I’m Keelan but most online call me Hassu, I go by either
+# Hi, I’m Keelan but most online call me Hassu
 - 🖤 My passion is full-stack development, my aim is to create simple & effective applications that every user will fall in love with.
 - 🎵 Music has to be one of my greatest motivators, I believe the emotions you experience whilst doing anything will be greatly influenced by the music you're listening to at the moment.
 - 👟 Keeping fit is also a great priority for me whether the diet you're currently on or a fitness plan you're following, strong body - strong mind!
