@@ -1,22 +1,30 @@
-# Hi, I’m Keelan but most online call me Hassu
-- 🖤 My passion is full-stack development, my aim is to create simple & effective applications that every user will fall in love with.
-- 🎵 Music has to be one of my greatest motivators, I believe the emotions you experience whilst doing anything will be greatly influenced by the music you're listening to at the moment.
-- 👟 Keeping fit is also a great priority for me whether the diet you're currently on or a fitness plan you're following, strong body - strong mind!
-- 🌱 I’m improving on my skills day by day, always seeking for the most efficient & effective outcomes.
+# Hi, I'm Elhassu 👋
 
-## Favourite Languages & Frameworks
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br/>
-![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-<br/>
-![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+Full-stack and product developer working across Web2 SaaS and Web3 infrastructure. I build web applications, APIs, and backend systems focused on system reliability, type safety, and clean architecture.
+
+---
+
+### 💻 Core Stack
+
+- **Languages:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- **Backend & Cloud:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- **Tools:** 	![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)	![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 	![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+
+---
+
+### ⚡ What I Do
+
+- **Full-Stack Development:** Modernising platforms (e.g., migrating monolithic PHP setups to React/AWS Serverless) and shipping end-to-end features.
+- **Product Ownership:** Translating user needs and business constraints into technical roadmaps, UX improvements, and ecosystem integrations (FinTech, HRIS, accounting).
+- **Systems & Infrastructure:** Designing predictable APIs, backend services for data reconciliation, and handling high-reliability Web3 operations.
+
+---
+
+### 📬 Find Me
+
+- **Website:** [elhassu.com](https://www.elhassu.com)
+- **LinkedIn:** [linkedin.com/in/elhassu](https://www.linkedin.com)
 
 ## Rankings
 [![committers.top badge](https://user-badge.committers.top/malta_private/elhassu.svg)](https://user-badge.committers.top/malta_private/elhassu) 🇲🇹
