@@ -1,4 +1,4 @@
-# Hi, I'm Elhassu 👋
+# Hi, I'm Hassu 👋
 
 Full-stack and product developer working across Web2 SaaS and Web3 infrastructure. I build web applications, APIs, and backend systems focused on system reliability, type safety, and clean architecture.
 
