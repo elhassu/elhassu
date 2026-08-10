@@ -1,4 +1,4 @@
-# Hi, I'm Hassu 👋
+# Hi, I'm Keelan 👋
 
 Full-stack and product developer working across Web2 SaaS and Web3 infrastructure. I build web applications, APIs, and backend systems focused on system reliability, type safety, and clean architecture.
 
@@ -23,8 +23,8 @@ Full-stack and product developer working across Web2 SaaS and Web3 infrastructur
 
 ### 📬 Find Me
 
-- **Website:** [elhassu.com](https://www.elhassu.com)
-- **LinkedIn:** [linkedin.com/in/elhassu](https://www.linkedin.com)
+- **Website:** [keelan.vellazerafa.com](https://keelan.vellazerafa.com)
+- **LinkedIn:** [linkedin.com/in/keelan-vella](https://www.linkedin.com/in/keelan-vella/)
 
 ## Rankings
 [![committers.top badge](https://user-badge.committers.top/malta_private/elhassu.svg)](https://user-badge.committers.top/malta_private/elhassu) 🇲🇹
